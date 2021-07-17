@@ -1,0 +1,38 @@
+.grid-container {
+  margin:10% auto;
+  margin-bottom: 0;
+  margin-top:-2%;
+}
+
+.grid {
+  white-space: pre;
+}
+
+button {
+  margin-top:10px;
+  padding: 5px;
+  margin: 5px;
+  background-color:#c7defa;
+  color:black;
+ 
+}
+#heading{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+  margin:5px;
+  margin-bottom: 4%;
+}
+a{
+  margin:0.9%;
+  text-decoration: none;
+}
+#icon{
+  font-size:x-large;
+}
+#idiv{
+  margin-left:13% ;
+  margin-top :-3%;
+}
+h2{
+  font-family:'Segoe UI';
+}
