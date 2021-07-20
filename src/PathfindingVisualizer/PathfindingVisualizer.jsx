@@ -455,17 +455,7 @@ export default class PathfindingVisualizer extends Component {
           onClick={() => this.visualize('DFS')}>
           Depth First Search
         </button>
-        <h2>CONNECT-</h2>
-        <div id="idiv">
-         <a href="https://github.com/Masterroy1210">
-            <i  id="icon" class="fab fa-github"></i>
-            </a>
-            <a href="https://www.linkedin.com/in/saurav-salunke-451b591a3/">
-            <i id="icon" class="fab fa-linkedin-in"></i>
-            </a>
        
-      
-        </div>
         
       </div>
     );
